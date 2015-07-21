@@ -16,6 +16,6 @@
     "clean": "dist/"
   },
   "permission": false,
-  "rtl": false,
+  "rtl": true,
   "version": "2.0.5"
 }
